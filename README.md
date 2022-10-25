@@ -12,6 +12,10 @@ Yazılımcı Mekanı Discord Sunucusu olarak düzenlediğimiz ikinci CodeJam yar
 
 - Projelerinizi tamamladığınızda kaynak kodlarını GitHub hesabınıza eklemeli ve daha sonra projenizin linkini isminiz ile birlikte `👨💻・codejam` discord kanalında paylaşmalısınız.
 
-**16 Ekim Eylül tarihinden itibaren 1 hafta sürecek olan CodeJam etkinliğimiz 23 Ekim Pazar günü saat 23.59'da sonlanacaktır.** 
+**16 Ekim tarihinden itibaren 1 hafta süren CodeJam etkinliğimiz 23 Ekim tarihinde sonlanmıştır.** Yapılan değerlendirmeler sonucunda birinciliğe hak kazanan iki proje sahibi ( [@enes-1](https://github.com/enes-1) ve [@alwose](https://github.com/Alwosee/) ) 200'er TL değerindeki para ödülünü kazanmışlardır. Kendilerini tebrik ederiz.
 
-Zamanında gönderilen projeler 24 Ekim Pazartesi günü değerlendirilmeye alınacak ve 26 Ekim Çarşamba günü kazanan proje sunucumuzdaki `📢・duyurular` kanalından duyurulacaktır. Tüm katılımcılara başarılar dileriz.
+## Kazanan Projeler:
+
+[@enes-1](https://github.com/enes-1) Projesi - https://github.com/enes-1/Portfolio-enes-Blog-main
+
+[@alwose](https://github.com/Alwosee) Projesi - https://github.com/Alwosee/ymportfolyo
